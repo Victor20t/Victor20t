@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor20t&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Victor Gabriel" /> 
 
   <a href="https://github.com/Victor20t">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor20t&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor20t&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
